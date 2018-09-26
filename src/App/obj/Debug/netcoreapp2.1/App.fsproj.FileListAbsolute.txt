@@ -1,0 +1,13 @@
+/home/manu/RiderProjects/Kali/src/App/bin/Debug/netcoreapp2.1/App.deps.json
+/home/manu/RiderProjects/Kali/src/App/bin/Debug/netcoreapp2.1/App.runtimeconfig.json
+/home/manu/RiderProjects/Kali/src/App/bin/Debug/netcoreapp2.1/App.runtimeconfig.dev.json
+/home/manu/RiderProjects/Kali/src/App/bin/Debug/netcoreapp2.1/App.dll
+/home/manu/RiderProjects/Kali/src/App/bin/Debug/netcoreapp2.1/App.pdb
+/home/manu/RiderProjects/Kali/src/App/bin/Debug/netcoreapp2.1/Library.dll
+/home/manu/RiderProjects/Kali/src/App/bin/Debug/netcoreapp2.1/Library.pdb
+/home/manu/RiderProjects/Kali/src/App/obj/Debug/netcoreapp2.1/App.fsprojAssemblyReference.cache
+/home/manu/RiderProjects/Kali/src/App/obj/Debug/netcoreapp2.1/App.AssemblyInfoInputs.cache
+/home/manu/RiderProjects/Kali/src/App/obj/Debug/netcoreapp2.1/App.AssemblyInfo.fs
+/home/manu/RiderProjects/Kali/src/App/obj/Debug/netcoreapp2.1/App.fsproj.CopyComplete
+/home/manu/RiderProjects/Kali/src/App/obj/Debug/netcoreapp2.1/App.dll
+/home/manu/RiderProjects/Kali/src/App/obj/Debug/netcoreapp2.1/App.pdb
